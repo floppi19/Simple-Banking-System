@@ -1,7 +1,7 @@
 # SimpleBankingSystem
 
 # STAGE I
-Objectives
+Objectives:
 
 You should allow customers to create a new account in our banking system.
 
@@ -17,7 +17,7 @@ If the customer chooses ‘Log into account’, you should ask them to enter the
 After all information is entered correctly, you should allow the user to check the account balance; right after creating the account, the balance should be 0. It should also be possible to log out of the account and exit the program.
  
 # STAGE II
-Objectives
+Objectives:
 
 You should allow customers to create a new account in our banking system.
 
@@ -34,7 +34,7 @@ If the customer chooses ‘Log into account’, you should ask to enter card inf
 After the information has been entered correctly, you should allow the user to check the account balance; after creating the account, the balance should be 0. It should also be possible to log out of the account and exit the program.
 
 # STAGE III
-Objectives
+Objectives:
 
 In this stage, create a database with a table titled card. It should have the following columns:
 
@@ -47,7 +47,7 @@ Also, in this stage, you should read the database file name from the command lin
 Pay attention: your database file should be created when the program starts, if it hasn’t yet been created. And all created cards should be stored in the database from now.
 
 # STAGE IV
-Description
+Description:
 
 You have created the foundation of our banking system. Now let's take the opportunity to deposit money into an account, make transfers and close an account if necessary.
 
