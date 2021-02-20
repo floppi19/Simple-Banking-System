@@ -2,6 +2,7 @@
 
 # STAGE I
 Objectives
+
 You should allow customers to create a new account in our banking system.
 
 Once the program starts, you should print the menu:
@@ -17,6 +18,7 @@ After all information is entered correctly, you should allow the user to check t
  
 # STAGE II
 Objectives
+
 You should allow customers to create a new account in our banking system.
 
 Once the program starts you should print the menu:
@@ -33,6 +35,7 @@ After the information has been entered correctly, you should allow the user to c
 
 # STAGE III
 Objectives
+
 In this stage, create a database with a table titled card. It should have the following columns:
 
 id INTEGER
@@ -45,6 +48,7 @@ Pay attention: your database file should be created when the program starts, if 
 
 # STAGE IV
 Description
+
 You have created the foundation of our banking system. Now let's take the opportunity to deposit money into an account, make transfers and close an account if necessary.
 
 Now your menu should look like this:
